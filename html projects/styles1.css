@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #11073d;
+}
+
+header {
+    background-color: #e43d3d;
+    color: #050224;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.container {
+    background-color: #e6b1e6;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(231, 224, 105, 0.874);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #130a44;
+}
+
+.learn-more-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.learn-more-btn:hover {
+    background-color: #0056b3;
+}
