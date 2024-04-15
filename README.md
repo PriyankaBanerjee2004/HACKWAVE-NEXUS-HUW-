@@ -1,2 +1,2 @@
 # HACKWAVE-NEXUS-HUW-
-HACK UR WAY
+CareNET is a charity funding/charity raising platform based on blockchain technology providing a seamless and secure environment for individuals and organizations to raise donations. In our application users can view and support any cause that aligns with their values. Join us in our mission to empower global giving, foster community engagement, and drive positive change in the world.
