@@ -1,4 +1,4 @@
-#HACK-UR_WAY
+#HACK-UR-WAY_
 CareNET is the pioneering platform at the forefront of revolutionizing philanthropy through the transformative power of technology. At CareNET, we believe that everyone has the potential to make a difference in the world, and our platform is designed to empower individuals and organizations to do just that.
 
 At the heart of CareNET lies our commitment to transparency, accountability, and impact. We understand the importance of trust when it comes to charitable giving, which is why we meticulously curate a diverse selection of vetted charitable organizations and causes. Every organization featured on our platform undergoes a rigorous vetting process to ensure legitimacy, transparency, and alignment with our values. This dedication to authenticity and integrity allows donors to give confidently, knowing that their contributions are making a tangible difference in the lives of others.
